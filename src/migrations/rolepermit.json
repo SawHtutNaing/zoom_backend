@@ -1,0 +1,26 @@
+{
+    "roles":[
+        
+            {
+                "name":"admin"
+            },
+            {
+                "name":"user"
+            },
+            {
+                "name":"driver"
+            }
+        
+    ],
+    "permits":[
+        {
+            "name":"edit_user"
+        },
+        {
+            "name":"delete_user"
+        },
+        {
+            "name":"create_user"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+node_modules/
+.env
+package.json
+.idea
+./uploads/
+node.txt
+server.txt
